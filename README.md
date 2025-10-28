@@ -1,5 +1,7 @@
 # versus
 
+[info](info.html)
+
 ### Utilities
 * [Calculator](calc)
 * JS Code Utility Runner
