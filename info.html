@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>info</title>
+	</head>
+	<body>
+		<h1>Information</h1>
+		<p>Information about this page</p>
+		<ul>
+			<li>Store 1 - <span>MXYxLmxvbA==</span></li>
+			<li>Store 2 - <span>YXF1YXBhcmsuaW8=</span></li>
+			<li>Store 3 - <span>dWx0cmF2aW9sZXQgcHJveHk=</span></li>
+			<li>Store 4 - <span>c25vdyByaWRlciAzZA==</span></li>
+		</ul>
+		<script>
+			var spans = document.getElementsByTagName("span");
+			Array.from(spans).forEach(element => {
+				var t = element.innerText;
+				element.innerText = atob(t);
+			});
+		</script>
+	</body>
+</html>
