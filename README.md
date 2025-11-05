@@ -2,6 +2,8 @@
 
 [info](info.html)
 
+[others](other)
+
 ### Utilities
 * [Calculator](calc)
 * JS Code Utility Runner
