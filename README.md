@@ -1,5 +1,11 @@
 # versus
 
+> [!important]
+> A rework of the website is planned to be made in the future.
+> 
+> This means some things in this website may subject to change.
+> Also there'll be more stores and utilities along the way.
+
 [info](info.html)
 
 [others](other)
